@@ -1,1 +1,2 @@
-# EnerjiTakipSistemi
+# EnerjiTakipSistemi 
+Muhammed_Salih_BAYRAK_240111293_Final_Teslim
